@@ -18,7 +18,7 @@ The latter components contain the snapshot of the Horiseon landing webpage's int
 
 Click the following link to access the landing webpage: https://gurtej154.github.io/Code-refactor-project/
 
-![Horiseon landing webpage](https://github.com/gurtej154/Code-refactor-project/raw/Code-refactor-project\Landing-webpage-snapshot.png) 
+![Landing-webpage-snapshot](./Code-refactor-project\Landing-webpage-snapshot.png)
 
 ## License
 Copyright (c) 2021 Gurtej Singh
