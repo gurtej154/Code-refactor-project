@@ -1,13 +1,16 @@
+/* Styling elements for the whole website */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Styling for the body of the page */
 body {
     background-color: #d9dcd6;
 }
 
+/*Styling for the header of the page*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +27,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Styling elements for the navigational bar of the page */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -43,10 +47,12 @@ a {
     text-decoration: none;
 }
 
+/* Font styling for the paragraphs of the website */
 p {
     font-size: 16px;
 }
 
+/* Styling elements of the team image */
 .hero {
     height: 800px;
     width: 100%;
@@ -56,12 +62,14 @@ p {
     background-position: center;
 }
 
+/* Styling elements for the main content of the webpage */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* Styling elements for each services component of the webpage */ 
 .content article {
     margin-bottom: 20px;
     font-size: 24px;
@@ -90,6 +98,7 @@ p {
     margin-left: 25px;
 }
 
+/* Styling elements for the side navigation bar of the webpage */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -118,6 +127,7 @@ p {
     max-width: 150px;
 }
 
+/* Styling elements for the footer section of the page */
 footer {
     padding: 30px;
     clear: both;
