@@ -16,7 +16,7 @@ The following skills developed through the initiative of this project will allow
 ## Usage
 The latter components contain the snapshot of the Horiseon landing webpage's interface and the live web link to the page. 
 
-Click the following link to access the landing webpage: 
+Click the following link to access the landing webpage: https://gurtej154.github.io/Code-refactor-project/
 
 ![Horiseon landing webpage](Code-refactor-project\assets\images\Horiseon-landing-webpage-snapshot.png) 
 
@@ -40,7 +40,7 @@ To contribute, modify or edit in general;
 ```
 git@github.com:gurtej154/Code-refactor-project.git
 ```
-- enter git clone 
+- Enter git clone 
 ```
 git clone git@github.com:gurtej154/Code-refactor-project.git
 ```
