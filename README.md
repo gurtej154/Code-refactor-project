@@ -1,10 +1,5 @@
 # Code refactor project - Horiseon Digital Marketing Agency
 ## Description
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
 
 The following project showcases the intergration of HTML and CSS in the make up and design of the landing page for the Horiseon Digital Marketing Agency. Through the understanding of Horiseon and its principles as a business, the following webpage represents a means of connecting clients with their brand and identity, expressing them as a leader within the industry and why they should partner with them for their marketing solutions. 
 
@@ -41,10 +36,12 @@ To contribute, modify or edit in general;
 - Open a integrated terminal or git bash 
 - Attain the repo link from this repository
 
+
+```
 git@github.com:gurtej154/Code-refactor-project.git
-
+```
 - enter git clone 
-
+```
 git clone git@github.com:gurtej154/Code-refactor-project.git
-
+```
 - Start accessing the project's content!
