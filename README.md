@@ -11,7 +11,7 @@ The following skills developed through the initiative of this project will allow
 
 - [Usage](#usage)
 - [License](#license)
-- [How to contribute](#howtocontribute)
+- [Contribute](#contribute)
 
 ## Usage
 The latter components contain the snapshot of the Horiseon landing webpage's interface and the live web link to the page. 
